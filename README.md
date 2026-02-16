@@ -45,10 +45,10 @@ Evaluation metric: Accuracy
 📊 Model Performance
 
 EfficientNet Test Accuracy: 98.34%
-![Training Curve for EfficientNet ](images/EfficientNet.jpg)
+![Training Curve for EfficientNet ](eff.jpg)
 
 VGG16 Test Accuracy: 97.88%
-![Training Curve for VGG16](images/vgg.jpg)
+![Training Curve for VGG16](vgg.jpg)
 Ensemble Test Accuracy: 98.889%
 
 
